@@ -1,6 +1,6 @@
 # Taylor Swift Spotify Analysis
 
-Author: Marcia Hawkins-Day
+Author: Marcia Hawkins-Day  
 Email: marciahd@umich.edu
 
 ## Introduction
