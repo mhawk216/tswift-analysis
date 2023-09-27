@@ -15,4 +15,4 @@ This data contains song attributes such as song title, album title, and release 
 It should be noted that Taylor’s version instead of the standard version is included when available, also, concerts, studio sessions, and feature songs are not included. 
 
 ## Entity Relationship Diagram
-![alt text](./images/ERD.jpg)
+![alt text](./images/ERD.png)
