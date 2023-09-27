@@ -16,3 +16,4 @@ It should be noted that Taylor’s version instead of the standard version is in
 
 # Entity Relationship Diagram
 
+![ERD](images/tswift_ERD.jpg)
